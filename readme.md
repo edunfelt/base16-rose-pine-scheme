@@ -13,23 +13,19 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+For usage with the base16 [builder](https://github.com/chriskempson/base16).
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+Rosé Pine
+![Rosé Pine Scheme](assets/palette.png)
+
+Rosé Pine Moon
+![Rosé Pine Moon Scheme](assets/palette-moon.png)
+
+Rosé Pine Dawn
+![Rosé Pine Dawn Scheme](assets/palette-dawn.png)
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [edunfelt](https://github.com/edunfelt)
