@@ -16,15 +16,19 @@
 For usage with the base16 [builder](https://github.com/chriskempson/base16).
 
 ## Gallery
+<p align="center">
+  <a>Rosé Pine</a>
+  ·
+  <a>Rosé Pine Moon</a>
+  ·
+  <a>Rosé Pine Dawn</a>
+</p>
 
-Rosé Pine
-![Rosé Pine Scheme](assets/palette.png)
-
-Rosé Pine Moon
-![Rosé Pine Moon Scheme](assets/palette-moon.png)
-
-Rosé Pine Dawn
-![Rosé Pine Dawn Scheme](assets/palette-dawn.png)
+<p align="center">
+  <img src="assets/palette.png" width="300" />
+  <img src="assets/palette-moon.png" width="300" />
+  <img src="assets/palette-dawn.png" width="300" />
+</p>
 
 ## Thanks to
 
