@@ -25,9 +25,9 @@ For usage with the base16 [builder](https://github.com/chriskempson/base16).
 </p>
 
 <p align="center">
-  <img src="assets/palette.png" width="300" />
-  <img src="assets/palette-moon.png" width="300" />
-  <img src="assets/palette-dawn.png" width="300" />
+  <img src="assets/palette.png" width="200" />
+  <img src="assets/palette-moon.png" width="200" />
+  <img src="assets/palette-dawn.png" width="200" />
 </p>
 
 ## Thanks to
