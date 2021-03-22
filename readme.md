@@ -30,6 +30,15 @@ For usage with the base16 [builder](https://github.com/chriskempson/base16).
   <img src="assets/palette-dawn.png" width="200" />
 </p>
 
+Rosé Pine
+![Rosé Pine with Vim](assets/vim_regular.png)
+
+Rosé Pine Moon
+![Rosé Pine Moon with Vim](assets/vim_moon.png)
+
+Rosé Pine Dawn
+![Rosé Pine Dawn with Vim](assets/vim_dawn.png)
+
 ## Thanks to
 
 - [edunfelt](https://github.com/edunfelt)
